@@ -21,7 +21,6 @@ function getUser(userId: string) {
     // handle any additional validations
     return user;
 }
-isNil(x); // Checks that the value is either null or undefined
 ```
 
 This package supports typescript types and each of the condition checks also provide type guards to simplify typescript code.

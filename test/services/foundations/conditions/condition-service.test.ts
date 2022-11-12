@@ -1,4 +1,4 @@
-import { ConditionService } from './condition-service';
+import { ConditionService } from '../../../../src/services/foundations/conditions/condition-service';
 
 describe('Condition Service Test Suite', () => {
     const service = new ConditionService();

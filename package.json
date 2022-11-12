@@ -1,0 +1,19 @@
+{
+  "name": "@the-standard/conditions",
+  "version": "1.0.0",
+  "description": "Common conditions that are verbose simplified down to global functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecoulson/standard-conditions.git"
+  },
+  "author": "Evan Coulson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecoulson/standard-conditions/issues"
+  },
+  "homepage": "https://github.com/ecoulson/standard-conditions#readme"
+}

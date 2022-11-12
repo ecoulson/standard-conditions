@@ -1,6 +1,6 @@
 {
     "name": "@the-standard/conditions",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Common conditions that are verbose simplified down to global functions",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
